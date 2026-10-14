@@ -5,7 +5,7 @@
 >
 
 <p align="center">
-  <img src="https://github.com/AEjonanonymous/Gallium-Aluminum-Topological-Model/blob/main/docs/gallium_aluminum_lme_topological_transition_plot.png" height="750" width="1000">
+  <img src="https://github.com/AEjonanonymous/Gallium-Aluminum-Topological-Model/blob/main/docs/gallium_aluminum_lme_soft_mode_cascade.png" height="750" width="1000">
 </p>
 
 ## 🤝 Acknowledgements
