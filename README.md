@@ -5,7 +5,7 @@
 >
 
 <p align="center">
-  <img src="path/to/image.png" alt="Alt Text" width="400">
+  <img src="https://github.com/AEjonanonymous/Gallium-Aluminum-Topological-Model/blob/main/docs/gallium_aluminum_lme_topological_transition_plot.png" height="750" width="1000">
 </p>
 
 ## 🤝 Acknowledgements
